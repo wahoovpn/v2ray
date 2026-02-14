@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Wahoo VPN](https://wahoovpn.com/logo.png)
+![Wahoo VPN](https://www.wahoovpn.com/cn/images/logo.svg)
 
 **高速 · 稳定 · 安全 · 私密**
 
